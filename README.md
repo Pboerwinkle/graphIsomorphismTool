@@ -1,3 +1,4 @@
+
 This readme is intended to be read in plain monospace text.
 
 This tool is used to make graphs! Graphs as in: https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)
@@ -32,3 +33,5 @@ _________________________________________
 9. add a vertex to the current graph
 10. remove a vertex from the current graph
 11. graphical representation of the graph (wait... GRAPHical?)
+
+Currently, finding the isomorphisms of graphs with 4 or more edges can be slow (the speed is VERY variable depending on the layout of the graph).
